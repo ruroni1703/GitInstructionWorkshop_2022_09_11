@@ -39,5 +39,6 @@
 ### Инструкция по созданию pull request
 
 ## Книги и полезные ссылки по изучению git.
-
+* [habr](https://habr.com/ru/post/273897/)
+* [Git для профессионалов](https://gbcdn.mrgcdn.ru/uploads/asset/4245110/attachment/d4eb8c232f8f2bdf4e42ba7cb49e0c50.pdf)
 ## Альтернативные системы контроля версий.
